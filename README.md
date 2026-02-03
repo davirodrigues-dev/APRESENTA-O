@@ -1,7 +1,6 @@
 ## 📌 Sobre o projeto
 
-Uma atividade para reforçar meus conhecimentos em html e css, bem básico, mas o melhor que consigo no momento.
-Continuar estudando e aprimorando, esse é meu objetivo.
+Foi pedido um resumo sobre as expectativas durante o curso, acrescentei um pouco sobre mim. Esse projeto me ajudou bastante para fortalecer meus conhecimentos e adquirir novos. Utilizei o Gemini para me auxiliar no aprendizado, me ajudou bastante para aprender coisas novas e melhorar meu projeto.
 
 ## 🛠 Tecnologias utilizadas
 
@@ -19,4 +18,3 @@ Aprimorar minhas habilidades em desenvolvimento front-end e evoluir continuament
 
 
 <br><br>![imagem](programador.png)
-
