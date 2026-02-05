@@ -6,10 +6,7 @@ Foi pedido um resumo sobre as expectativas durante o curso, acrescentei um pouco
 
 - HTML
 - CSS
-<<<<<<< HEAD
 - JavaScript
-=======
->>>>>>> 0d782e541e7c721017a17ade832b3e33f8c8e231
 
 ## 🎯 Objetivo
 

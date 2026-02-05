@@ -49,11 +49,8 @@ p {
     padding: 30px;
     border-radius: 30px;
     background-color: #ffffff;
-<<<<<<< HEAD
     box-shadow: #333 0px 15px 40px;
-=======
     box-shadow: 0 15px 40px rgb(0, 0, 0);
->>>>>>> 0d782e541e7c721017a17ade832b3e33f8c8e231
     text-align: center;
     margin-bottom: 2rem;
 }
@@ -65,7 +62,6 @@ p {
 .foto-computador {
     width: 35px;
     height: 35px;
-<<<<<<< HEAD
 }
 
 .links-sociais {
@@ -132,6 +128,4 @@ body.dark-mode p,
 body.dark-mode h1,
 body.dark-mode h2 {
     color: #ffffff;
-=======
->>>>>>> 0d782e541e7c721017a17ade832b3e33f8c8e231
 }
